@@ -1,0 +1,23 @@
+{
+  "name": "lunch-planner",
+  "version": "0.0.1",
+  "description": "Web app for planning lunch outings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotzipfile/lunch-planner.git"
+  },
+  "author": "dotzipfile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotzipfile/lunch-planner/issues"
+  },
+  "homepage": "https://github.com/dotzipfile/lunch-planner#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
